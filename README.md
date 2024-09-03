@@ -15,4 +15,4 @@
 <img align= "center" alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div><br/>
 
-Estou me aprofundando em JavaScript, com foco em desenvolvimento front-end. Atualmente, estou explorando outras tecnologias e desenvolvendo um projeto pessoal para criar um aplicativo web interativo.
+Minha jornada como futuro analista de sistemas inclui o domínio de linguagens como JavaScript e tecnologias como HTML e CSS. Estou especialmente interessado em explorar a integração de front-end com bancos de dados para criar aplicações web robustas e eficientes.
