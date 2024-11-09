@@ -15,4 +15,4 @@
 <img align= "center" alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
 
-Minha jornada como futuro analista de sistemas inclui o domínio de linguagens como JavaScript e tecnologias como HTML e CSS. Estou especialmente interessado em explorar a integração de front-end com bancos de dados para criar aplicações web robustas e eficientes.
+Minha jornada como futuro Engenheiro de Software inclui o domínio de linguagens como JavaScript e tecnologias como HTML e CSS. Estou especialmente interessado em explorar a integração de front-end com bancos de dados para criar aplicações web robustas e eficientes.
