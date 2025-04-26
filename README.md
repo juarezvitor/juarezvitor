@@ -47,4 +47,4 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&textBg=false&descAlign=0&fontAlign=0&fontAlignY=0&reversal=true&descAlignY=43&section=footer"/>
+<img width="100%" src= "https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&textBg=false&descAlign=0&fontAlign=0&fontAlignY=0&reversal=true&descAlignY=43&section=footer"/>
