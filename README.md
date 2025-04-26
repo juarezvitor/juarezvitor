@@ -8,11 +8,13 @@
 
 🎓 Graduando Sistemas de Informação<br>
 💻 Focado em Desenvolvimento Full-Stack<br>  
-🚀 Atualmente estudando JavaScript, Java, HTML e CSS<br>
+🚀 Atualmente estudando JavaScript, Java, HTML e CSS
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juarezvitor&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juarezvitor&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
+</div>
+  
 ### Tecnologias que uso nos meus projetos.
 
 <div style="display: inline_block"><br/>
