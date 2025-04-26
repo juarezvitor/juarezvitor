@@ -7,7 +7,7 @@
 ###<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Juarez Vitor
 
 🎓 Graduando Sistemas de Informação<br>
-💻 Focado em Desenvolvimento Full-Stack
+💻 Focado em Desenvolvimento Full-Stack<br>
 🚀 Atualmente estudando JavaScript, Java, HTML e CSS
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juarezvitor&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
@@ -33,9 +33,9 @@ Minha jornada como futuro desenvolvedor inclui o domínio de linguagens como Jav
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juarez10vitor@gmail.com)
 
 <picture align="center" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juarezvitor/juarezvitor/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juarezvitor/juarezvitor/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/juarezvitor/juarezvitor/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juarezvitor//output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juarezvitor//output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/juarezvitor//output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
