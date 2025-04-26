@@ -1,13 +1,15 @@
-
 <img width="100%" src= "https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&textBg=false&descAlign=0&fontAlign=0&fontAlignY=0&reversal=true&descAlignY=43"/>
 
 ---
+
 <div align="center">
 
 #### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Juarez Vitor
+
 🎓 Graduando Sistemas de Informação<br>
 💻 Focado em Desenvolvimento Full-Stack<br>
 🚀 Atualmente estudando JavaScript, Java, HTML e CSS<br>
+
 </div>
 
 <div align="center">
@@ -29,12 +31,16 @@
 </div>
 <br>
 
-Minha jornada como futuro desenvolvedor inclui o domínio de linguagens como JavaScript, Java e tecnologias como HTML e CSS. Estou especialmente interessado em explorar o desenvolvimento Full-Stack, com o objetivo de conhecer tanto o frontend quanto o backend em profundidade e me tornar um profissional completo e versátil.
+<div align="center">
+  <br><p align="center"><b>Minha jornada como futuro desenvolvedor inclui o domínio de linguagens como JavaScript, Java e tecnologias como HTML e CSS. Estou especialmente interessado em explorar o desenvolvimento Full-Stack, com o objetivo de conhecer tanto o frontend quanto o backend em profundidade e me tornar um profissional completo e versátil.</b></p>   
+  <br>
+</div>
 
+<div align="center">
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juaara/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juarez-vitor)
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juarez10vitor@gmail.com)
-
+</div>
 
 </div>
 
