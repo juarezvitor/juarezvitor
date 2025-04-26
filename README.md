@@ -6,8 +6,9 @@
 
 ###<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Juarez Vitor
 
-👩🏻‍💻 Desenvolvo projetos fullstack, criativo e admirador da tecnologia.<br>
-⚡ Graduando Sistemas de Informação - Uniasselvi<br>
+🎓 Graduando Sistemas de Informação<br>
+💻 Apaixonado por Desenvolvimento Full-Stack<br>  
+🚀 Atualmente estudando JavaScript, Java, HTML e CSS<br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juarezvitor&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juarezvitor&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
@@ -26,6 +27,16 @@
 
 Minha jornada como futuro desenvolvedor inclui o domínio de linguagens como JavaScript, Java e tecnologias como HTML e CSS. Estou especialmente interessado em explorar o desenvolvimento Full-Stack, com o objetivo de conhecer tanto o frontend quanto o backend em profundidade e me tornar um profissional completo e versátil.
 
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juaara/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juarez-vitor)
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juarez10vitor@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juaara/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juarezvitor/juarezvitor/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juarezvitor/juarezvitor/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/juarezvitor/juarezvitor/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&textBg=false&descAlign=0&fontAlign=0&fontAlignY=0&reversal=true&descAlignY=43"/>
