@@ -7,7 +7,7 @@
 ###<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Juarez Vitor
 
 🎓 Graduando Sistemas de Informação<br>
-💻 Apaixonado por Desenvolvimento Full-Stack<br>  
+💻 Focado em Desenvolvimento Full-Stack<br>  
 🚀 Atualmente estudando JavaScript, Java, HTML e CSS<br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juarezvitor&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
