@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&textBg=false&descAlign=0&fontAlign=0&fontAlignY=0&reversal=true&descAlignY=43
+
 ### Olá! Eu sou o Juarez Vitor 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juarez-vitor)
