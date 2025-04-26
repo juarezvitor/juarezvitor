@@ -7,13 +7,12 @@
 ###<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Juarez Vitor
 
 🎓 Graduando Sistemas de Informação<br>
-💻 Focado em Desenvolvimento Full-Stack<br>  
+💻 Focado em Desenvolvimento Full-Stack
 🚀 Atualmente estudando JavaScript, Java, HTML e CSS
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juarezvitor&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juarezvitor&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
-</div>
   
 ### Tecnologias que uso nos meus projetos.
 
@@ -39,6 +38,7 @@ Minha jornada como futuro desenvolvedor inclui o domínio de linguagens como Jav
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/juarezvitor/juarezvitor/output/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&textBg=false&descAlign=0&fontAlign=0&fontAlignY=0&reversal=true&descAlignY=43"/>
