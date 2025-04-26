@@ -1,6 +1,15 @@
+<img width="100%" src"https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&textBg=false&descAlign=0&fontAlign=0&fontAlignY=0&reversal=true&descAlignY=43"/>
+
+---
+
+<div align="center">
+  
 https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&textBg=false&descAlign=0&fontAlign=0&fontAlignY=0&reversal=true&descAlignY=43
 
-### Olá! Eu sou o Juarez Vitor 
+###<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Juarez Vitor
+
+👩🏻‍💻 Desenvolvo projetos fullstack, criativo e admirador da tecnologia.<br>
+ ⚡ Graduando Sistemas de Informação - Uniasselvi<br>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juarez-vitor)
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juarez10vitor@gmail.com)
