@@ -4,10 +4,12 @@
 
 <div align="center">
 
-##<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Juarez Vitor
-  🎓 Graduando Sistemas de Informação<br>
-  💻 Focado em Desenvolvimento Full-Stack<br>
-  🚀 Atualmente estudando JavaScript, Java, HTML e CSS<br>
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Juarez Vitor
+
+🎓 Graduando Sistemas de Informação <br>
+💻 Focado em Desenvolvimento Full-Stack <br>
+🚀 Atualmente estudando JavaScript, Java, HTML e CSS <br>
+
 </div>
 
 <div align="center">
